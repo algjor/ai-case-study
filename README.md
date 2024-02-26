@@ -132,11 +132,11 @@
 
 * Why do you think that offering this product or service would benefit the company?
 
-    This additional service would be a proliferation to their existing Oncology solutions and services – as the treatments in Oncology and Hematology are often times tightly linked at healthcare institutions. 
+    This additional service would be a proliferation to their existing Oncology solutions and services – as the treatments in Oncology and Hematology are oftentimes tightly linked at healthcare institutions. 
 
 * What technologies would this additional product or service utilize?
 
-    The genomic data analytics currently used by Tempus in Oncology could be used in Hematology to determine under which circumstances is it better to use treatments as blood transfusions -vs-  chemotherapy -vs- drugs.  
+    The genomic data analytics currently used by Tempus in Oncology could be used in Hematology to determine under which circumstances is it better to use such treatments as blood transfusions -vs-  chemotherapy -vs- drugs.  
 
 * Why are these technologies appropriate for your solution?
 
